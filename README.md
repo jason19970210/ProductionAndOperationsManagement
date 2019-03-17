@@ -1,4 +1,4 @@
-# ProductionAndOperationsManagement
+# Production And Operations Management
 
 ## 教科書與參考書
 - 作業管理-創造競爭優勢
